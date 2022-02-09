@@ -1,0 +1,4 @@
+﻿  markov.cpp
+C:\Users\bianca info\source\repos\LF_Tema2\markov.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bianca info\source\repos\LF_Tema2\markov.cpp(80,22): warning C4018: '<': signed/unsigned mismatch
+  LF_Tema2.vcxproj -> C:\Users\bianca info\source\repos\LF_Tema2\Debug\LF_Tema2.exe
